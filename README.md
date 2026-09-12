@@ -1,2 +1,2 @@
 # CALC 2.0
-A simple calculator program
+A not that simple but still useable and fun calculator program
